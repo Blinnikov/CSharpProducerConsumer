@@ -1,6 +1,6 @@
 using System.Collections.Concurrent;
 
-namespace ProducerConsumerDemo.ConcurrentQueue;
+namespace ProducerConsumerDemo.ConcurrentQueueImpl;
 
 public class Channel<T> : IReader<T>, IWriter<T>
 {

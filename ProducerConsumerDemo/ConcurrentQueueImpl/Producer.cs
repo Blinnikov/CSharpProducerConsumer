@@ -1,6 +1,4 @@
-using ProducerConsumerDemo.ConcurrentQueue;
-
-namespace ProducerConsumerDemo;
+namespace ProducerConsumerDemo.ConcurrentQueueImpl;
 
 public static class Producer
 {
